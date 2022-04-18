@@ -1,14 +1,13 @@
-using System;
 using Xunit;
 
-namespace TestProject1
+namespace CICDTest
 {
     public class UnitTest1
     {
         [Fact]
         public void Test1()
         {
-            Assert.True(1 == 1);
+
         }
     }
 }
